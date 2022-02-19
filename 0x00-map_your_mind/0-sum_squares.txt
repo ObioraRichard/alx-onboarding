@@ -1,0 +1,6 @@
+1. Create a variable.
+2. Assign the given numbers to the variable.
+3. Use a method to multiply each number by itself.
+4. Use another method to sum all squares together.
+5. Output new value.
+

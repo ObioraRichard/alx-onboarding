@@ -1,0 +1,5 @@
+1. Create a variable ‘sum’.
+2. Assign to ‘sum’ a value of zero.
+3. With a loop, check through the numbers for numbers greater than zero.
+4. If yes, add the number to ‘sum’ and repeat step 3.
+5. If no, end the process and return the current value of sum.
